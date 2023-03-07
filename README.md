@@ -45,3 +45,11 @@
 - [Source Code](https://github.com/jcongmon/EnrollmentSystem)
 - Built a CLI application that displays students, invalid email addresses, average number of class days, and students in a requested degree program.
 - Written in C++ (Visual Studio Code).
+
+## HTML/CSS
+
+### Cafe Menu Webpage (2023)
+- [Source Code] (https://github.com/jcongmon/freeCodeCamp/tree/main/CafeMenu)
+
+### Cat Photo Webpage (2023)
+- [Source Code] (https://github.com/jcongmon/freeCodeCamp/blob/main/responsiveWebDesign/CatPhotoApp)
