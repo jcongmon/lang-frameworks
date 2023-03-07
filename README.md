@@ -49,7 +49,7 @@
 ## HTML/CSS
 
 ### Cafe Menu Webpage (2023)
-- [Source Code] (https://github.com/jcongmon/freeCodeCamp/tree/main/CafeMenu)
+- [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/CafeMenu)
 
 ### Cat Photo Webpage (2023)
-- [Source Code] (https://github.com/jcongmon/freeCodeCamp/blob/main/responsiveWebDesign/CatPhotoApp)
+- [Source Code](https://github.com/jcongmon/freeCodeCamp/blob/main/responsiveWebDesign/CatPhotoApp)
