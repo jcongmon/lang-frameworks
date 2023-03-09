@@ -48,6 +48,9 @@
 
 ## HTML/CSS
 
+### FlexBox Photo Gallery (2023)
+- [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/PhotoGallery)
+
 ### Survey Form (2023)
 - [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/SurveyForm)
 
