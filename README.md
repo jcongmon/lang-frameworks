@@ -48,6 +48,9 @@
 
 ## HTML/CSS
 
+### Nutrition Label (2023)
+- [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/NutritionLabel)
+
 ### FlexBox Photo Gallery (2023)
 - [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/PhotoGallery)
 
