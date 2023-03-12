@@ -48,7 +48,7 @@
 
 ## HTML/CSS
 
-### HTML/CSS Quiz Webpage for Accessibility(2023)
+### HTML/CSS Quiz Webpage for Accessibility (2023)
 - [Source Code](https://github.com/jcongmon/freeCodeCamp/tree/main/HTMLCSSQuiz)
 
 ### Nutrition Label (2023)
